@@ -1,4 +1,4 @@
-chatops
+ChatOps
 =======
 
-A collection of chatops goodness
+A collection of ChatOps goodness
